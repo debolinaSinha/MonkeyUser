@@ -1,0 +1,14 @@
+[
+  {
+    "userDetails":{
+        "phonenumber":"6472771897",
+        "lastname":"Smith",
+        "address":"100 Queen St. W",
+        "city":"Toronto",
+        "country":"Canada",
+        "province": "Ontario"
+        "postalcode":"M5H 2N2"
+    }
+ 
+  }
+]

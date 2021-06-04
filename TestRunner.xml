@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Moneykeyuser">
+  <parameter name="browser" value="chrome" />
+    <classes>
+     <class name="com.moneykeyuser.testCase.TC_VerifyProductAddToCart"/> 
+        <class name="com.moneykeyuser.testCase.TC_ViewDecComic"/>  
+       <class name="com.moneykeyuser.testCase.TC_ViewRandomComic"/> 
+     <class name="com.moneykeyuser.testCase.TC_VerifyCheckoutPage"/> 
+    </classes>
+  </test> 
+</suite> 
